@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Finance</string>
+    <array name="inc">
+        <item>Salary</item>
+        <item>Bonus</item>
+        <item>Online</item>
+        <item>Relatives</item>
+    </array>
+
+    <array name="exp">
+        <item>Health</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Gift</item>
+    </array>
+</resources>
