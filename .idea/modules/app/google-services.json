@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432951246722",
+    "firebase_url": "https://smartwallet2-9a845.firebaseio.com",
+    "project_id": "smartwallet2-9a845",
+    "storage_bucket": "smartwallet2-9a845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432951246722:android:2d7097d4f7a3a3923a599b",
+        "android_client_info": {
+          "package_name": "com.example.smartwallet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432951246722-pscngob9e1cfue5ndp236vauaubruko0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartwallet2",
+            "certificate_hash": "72de014628aa8d692faa79d4793e93dd96afd5d7"
+          }
+        },
+        {
+          "client_id": "432951246722-0p9h1jpvfkor5pdbvmoi1dh7lp10rs2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1ni9gcEBoWtujsbf116Jg9fAdyLomvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432951246722-0p9h1jpvfkor5pdbvmoi1dh7lp10rs2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

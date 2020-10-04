@@ -1,16 +1,8 @@
 <resources>
-    <string name="app_name">Finance</string>
-    <array name="inc">
-        <item>Salary</item>
-        <item>Bonus</item>
-        <item>Online</item>
-        <item>Relatives</item>
-    </array>
+    <string name="app_name">SmartWallet2</string>
 
-    <array name="exp">
-        <item>Health</item>
-        <item>Food</item>
-        <item>Transport</item>
-        <item>Gift</item>
-    </array>
+    <string-array name="names">
+        <item>Income</item>
+        <item>Expenses</item>
+    </string-array>
 </resources>

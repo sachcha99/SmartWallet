@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "601362622847",
-    "firebase_url": "https://finance-ae67c.firebaseio.com",
-    "project_id": "finance-ae67c",
-    "storage_bucket": "finance-ae67c.appspot.com"
+    "project_number": "185705862173",
+    "firebase_url": "https://smartwallet-c1fb2.firebaseio.com",
+    "project_id": "smartwallet-c1fb2",
+    "storage_bucket": "smartwallet-c1fb2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:601362622847:android:cb7fc2bd4408e7463f524a",
+        "mobilesdk_app_id": "1:185705862173:android:ca931b1e71ed5b2357e2f4",
         "android_client_info": {
-          "package_name": "com.example.finance"
+          "package_name": "com.example.smartwallet2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "601362622847-r26cpqll0a4c3otv9a1ag5gbi1dai65g.apps.googleusercontent.com",
+          "client_id": "185705862173-lkffk5ilfqa03p9vdk4al9iksfedjgkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartwallet",
+            "certificate_hash": "5c64813a8b3f2fe8ea9dfecbfd376bc5e37addab"
+          }
+        },
+        {
+          "client_id": "185705862173-lrp8df23j7tcdjahd6t02fd1kt3aa82s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB8EklS2ou955O2brmtJfu3nLGn8K50qe0"
+          "current_key": "AIzaSyCC40fGNfZ1DNqb_VYGd4pK-o2PTz5wBIw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "601362622847-r26cpqll0a4c3otv9a1ag5gbi1dai65g.apps.googleusercontent.com",
+              "client_id": "185705862173-lrp8df23j7tcdjahd6t02fd1kt3aa82s.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

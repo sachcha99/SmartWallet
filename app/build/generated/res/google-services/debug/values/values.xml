@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">601362622847-r26cpqll0a4c3otv9a1ag5gbi1dai65g.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://finance-ae67c.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">601362622847</string>
-    <string name="google_api_key" translatable="false">AIzaSyB8EklS2ou955O2brmtJfu3nLGn8K50qe0</string>
-    <string name="google_app_id" translatable="false">1:601362622847:android:cb7fc2bd4408e7463f524a</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB8EklS2ou955O2brmtJfu3nLGn8K50qe0</string>
-    <string name="google_storage_bucket" translatable="false">finance-ae67c.appspot.com</string>
-    <string name="project_id" translatable="false">finance-ae67c</string>
+    <string name="default_web_client_id" translatable="false">185705862173-lrp8df23j7tcdjahd6t02fd1kt3aa82s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartwallet-c1fb2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">185705862173</string>
+    <string name="google_api_key" translatable="false">AIzaSyCC40fGNfZ1DNqb_VYGd4pK-o2PTz5wBIw</string>
+    <string name="google_app_id" translatable="false">1:185705862173:android:ca931b1e71ed5b2357e2f4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCC40fGNfZ1DNqb_VYGd4pK-o2PTz5wBIw</string>
+    <string name="google_storage_bucket" translatable="false">smartwallet-c1fb2.appspot.com</string>
+    <string name="project_id" translatable="false">smartwallet-c1fb2</string>
 </resources>
